@@ -2,7 +2,7 @@
 
 ### for N x N matrices in C programming language
 
-NOTE: this description of Strassen Matrix Multiplication is taken from [wikipedia](https://en.wikipedia.org/wiki/Strassen_algorithm)
+NOTE: this textual description of Strassen Matrix Multiplication is taken from [wikipedia](https://en.wikipedia.org/wiki/Strassen_algorithm)
 This includes source code for strasssen matrix multiplication in C for n x n matrices.
 
 Let A, B be two square matrices over a ring R. We want to calculate the matrix product C as
